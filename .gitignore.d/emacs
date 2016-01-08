@@ -1,0 +1,7 @@
+*
+!/.emacs.d
+!/.emacs.d/private
+!/.emacs.d/private/README.md
+!/.gitignore.d
+!/.gitignore.d/emacs
+!/.spacemacs
